@@ -1,0 +1,23 @@
+.division{
+    text-align: center;
+}
+
+.visible1 , .visible2{
+    visibility: hidden;
+}
+
+.trophy1 , .trophy2{
+    padding-top: 25px;
+}
+
+.title{
+    text-align: center;
+    padding-top: 4rem;
+    padding-bottom: 4rem;    
+}
+
+h1{
+    font-size: 5rem;
+}
+
+
